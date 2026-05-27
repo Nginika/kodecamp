@@ -4,7 +4,7 @@ Requirements:
 - install python 
 - install python requests (pip install requests)
 - instal python dotenv (pip install python-dotenv) 
-these are found in requirements.txt
+these are found in requirements.txt, install with "pip install -r requirements.txt"
 
 How to use:
 - ensure you have your environment variables stored as the example env file
