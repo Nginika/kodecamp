@@ -1,0 +1,10 @@
+Identify any extra information needed to address the request based on the category (e.g., transaction date, amount, card type, etc.) 
+
+the request: {step1Response}
+category: {step3Response}
+Original complaint: {user_complaint}
+
+Return ONLY a JSON array.
+
+Example:
+["Transaction date", "Amount"]

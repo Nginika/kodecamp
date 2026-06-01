@@ -1,0 +1,23 @@
+Available categories:
+
+- Account Opening
+- Billing Issue
+- Account Access
+- Transaction Inquiry
+- Card Services
+- Account Statement
+- Loan Inquiry
+- General Information
+
+Based on the extracted information below, determine which categories may apply.
+
+Extracted information:
+{step1Response}
+
+Original complaint:
+{user_complaint}
+
+Return ONLY a JSON array.
+
+Example:
+["Billing Issue", "Account Access"]

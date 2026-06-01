@@ -1,0 +1,5 @@
+Produce a suitable reply to the customer complaint based on the chosen category using the extracted information if any
+
+customer complaint: ${user_complaint}
+category: step3Response
+extracted information: step4Response

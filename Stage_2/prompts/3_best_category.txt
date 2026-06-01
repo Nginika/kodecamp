@@ -1,0 +1,6 @@
+select the best matching category to the user complaint from the options 
+
+user complaint: {user_complaint}
+options: {step2Response}
+
+return only the category
